@@ -1,4 +1,4 @@
-# commercetools Postman collections
+# Postman collections
 
 This repository contains Postman collections for the commercetools platform.
 
